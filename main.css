@@ -1,0 +1,418 @@
+*{
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+
+.divvv {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    margin-left: 50px;
+    padding-top: 50px;
+
+}
+
+.bgimg img {
+    width: 100%;
+    position: absolute; 
+}
+
+.left {
+    display: flex;
+    align-items: center;
+
+}
+
+.logo1 img {
+    width: 200px;
+    height: 100px;
+    margin-right: 20px;
+
+}
+
+.titlenav {
+    display: flex;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+
+.titlenav a:hover{
+    color: blue;
+    border-bottom: 2px solid;
+}
+
+
+
+
+.left a {
+    text-decoration: none;
+    margin-right:60px;
+}
+
+
+.right input {
+width: 120px;
+height: 30px;
+font-size: 20PX;
+border-style: none;
+position: relative;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+    margin-right: 70px;
+    
+}
+
+.sec1 {
+    display: flex;
+    align-items: center;
+    
+}
+
+
+.tittle2 {
+    position: relative;
+    width: 600px;
+    margin-left: 80px;
+    top: 180px;
+    left: 30px;
+}
+
+.t1 {
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+.t2 {
+    font-size: 30px;
+    color: rgb(148, 147, 147);
+}
+
+
+.img1 {
+    width: 900px;
+    height: 900px;
+    position: absolute;
+    left: 870px;
+    top: 25px;
+    width:700px;
+}
+
+.img2 {
+    width: 400px;
+    height: 550px;
+    position: absolute;
+    left: 980px;
+    top: 100px;
+}
+
+.img3 {
+position: absolute;
+left: 930px;
+top:520px ;
+width: 450px;
+}
+
+.img4 {
+    position: absolute;
+left: 160px;
+top:600px ;
+width: 1000px;
+height: 400px;
+}
+
+/*end header*/
+
+
+.sec2 {
+    margin-top: 650px;
+width: 100%;
+height: 650px;
+
+}
+
+.imgg1 {
+    width:1000px;
+    height: 500px;
+    position: absolute;
+    left: 500px;
+}
+
+.imgg2 {   
+    position: absolute;
+    left: 280px;
+    top: 1050px;
+}
+
+.imgg2title { 
+    font-size: 20px;
+    color: rgb(102, 101, 101);
+    position: relative;
+    top: 300px;
+    left: 295px;
+    width: 250px;
+    
+}
+
+.imgg22title {
+    font-size: 15px;
+    color: rgb(145, 145, 145);
+    position: relative;
+    top: 290px;
+    left: 265px;
+    margin-bottom: 10px;
+    width: 250px;
+}
+.imgg222title {    font-size: 15px;
+    color: rgb(145, 145, 145);
+    position: relative;
+    top: 285px;
+    left: 250px;
+    width: 350px;
+}
+
+.imgg3 {
+    position: absolute;
+    left: 750px;
+    top: 1250px;
+}
+
+.imgg3title {
+    font-size: 20px;
+    color: rgb(102, 101, 101);
+    position: relative;
+    top: 420px;
+    left: 785px;
+    width: 250px;
+}
+
+.imgg32title {
+    font-size: 15px;
+    color: rgb(145, 145, 145);
+    position: relative;
+    top: 420px;
+    left: 720px;
+    margin-bottom: 10px;
+    width: 350px;
+}
+
+.imgg33title {    font-size: 15px;
+    color: rgb(145, 145, 145);
+    position: relative;
+    top: 420px;
+    left: 765px;
+    width: 250px;
+}
+
+/*end sec2*/
+
+.sec3 {
+    display: flex;
+    align-items: center;
+    margin-left: 120px;
+    margin-right: 220px;
+    
+}
+
+.im1title {
+    position: relative;
+    color: wheat;
+    font-weight: bold;
+    left: 100px;
+    bottom: 70px;
+font-size: 30px;
+}
+
+.im1 {
+    position: absolute;
+    top: 1580px;
+    margin-bottom: 200px;
+}
+h2 {position: relative;
+    left: 100px;
+bottom: 70px;
+    font-size: 60px;
+    color: wheat;
+}
+
+.im2 {
+    position: absolute;
+    left: 1100px;
+    top: 1600px;
+}
+
+.im2title {
+    font-size: 20px;
+    color: rgb(102, 101, 101);
+    position: relative;
+    left: 800px;
+    top: 190px;
+}
+
+.im21title {
+    font-size: 15px;
+    color: rgb(145, 145, 145);
+    position: relative;
+    left: 700px;
+    top: 200px;
+    margin-bottom: 1px;
+}
+
+.im22title {
+    font-size: 15px;
+    color: rgb(145, 145, 145);
+    position: relative;
+    left: 680px;
+    top: 210px;
+    margin-bottom: 450px;
+}
+
+/*end sec 3 */
+.sec4{
+    margin-bottom: 150px;
+}
+.imi1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 220px;
+    margin-right: 120px;
+}
+
+.im111title {
+    position: relative;
+    left: 720px;
+    width: 400px;
+    font-size: 30px;
+    bottom: 30px;
+}
+
+.imgg82title {
+    position: relative;
+left:760px ;
+width: 400px;
+bottom: 30px;
+font-size: 20px;
+color: rgb(102, 101, 101);
+}
+.imgg922title {
+    position: relative;
+    left:765px ;
+    width: 400px;
+    bottom: 30px;
+    font-size: 20px;
+    color: rgb(102, 101, 101);
+    margin-top: 10px;
+}
+.imgg1022title {
+    position: relative;
+    left:815px ;
+    width: 400px;
+    bottom: 30px;
+    font-size: 20px;
+    color: rgb(102, 101, 101);
+    margin-top: 10px;
+}
+
+.fa-solid  {
+    position: absolute;
+    right: 450px;
+}
+.iii2 {
+    position:absolute;
+    right:550px;
+}
+
+/*end sec4*/
+.store{
+    display: flex;
+    width: 320px;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    margin-left: 110px;
+    margin-top: 200px;
+    
+
+}
+.fa-brands {
+font-size: 30px;
+padding-right: 20px;
+}
+
+.Applestore {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+width: 150px;
+height: 40px;
+border-radius: 10px;
+font-size: 15px;
+box-shadow: 5px 5px 2.5px #aaaaaa;
+border-style: none;
+
+}
+
+.PlaySore {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+width: 150px;
+height: 40px;
+border-radius: 10px;
+font-size: 15px;
+box-shadow: 5px 5px 2.5px #aaaaaa;
+border-style: none;
+}
+.maindiv {
+    position: relative;
+    padding-top: 150px;
+}
+.social {
+    margin-bottom: 30px;
+    margin-left: 120px;
+    color: rgb(255, 254, 254);
+
+}
+
+.fnavbar  {
+    display: flex;
+    justify-content: space-between;
+    width: 450px;
+    margin-left: 120px;
+
+
+}
+
+.fnavbar a {
+    text-decoration: none;
+    color: rgb(255, 254, 254);
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.fimg {
+    width: 100%;
+    margin: 0px;
+    position: absolute;
+top: 2790px;
+}
+
+.fimg2 { 
+width: 800px;
+height: 600px;
+margin: 0;
+padding: 0;
+position: absolute;
+left: 700px;
+top: 2868px;
+}
+
+/*end footer*/
+
+
